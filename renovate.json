@@ -4,5 +4,6 @@
   ],
   "gradle": {
     "enabled": true
-  }
+  },
+  prHourlyLimit: 0
 }
